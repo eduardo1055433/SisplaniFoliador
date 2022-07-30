@@ -1,0 +1,11 @@
+
+SE TRABAJA USANDO VIRTUALIZACION
+para su uso .\env\Scripts\activate
+dentro del entorno virtual python .\src\app.py
+
+PARA SALIR DE LA VIRTUALIZACION USAR EL COMANDO
+deactivate
+
+videos de ayuda
+https://www.youtube.com/watch?v=FX0lMm_Qj10
+https://www.youtube.com/watch?v=IgCfZkR8wME
